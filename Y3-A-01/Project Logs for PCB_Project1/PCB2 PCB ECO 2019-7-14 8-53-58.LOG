@@ -1,0 +1,8 @@
+Added Component: Designator=R100(AXIAL-0.4)
+Added Component: Designator=R101(AXIAL-0.4)
+Added Pin To Net: NetName=PB2 Pin=Q1-1
+Added Member To Class: ClassName=Sheet1 Member=Component C15 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component P5 download
+Added Member To Class: ClassName=Sheet1 Member=Component R100 Res2
+Added Member To Class: ClassName=Sheet1 Member=Component R101 Res2
+Added Room: Name=Sheet1

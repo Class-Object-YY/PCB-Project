@@ -1,0 +1,82 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\ASUS\Desktop\PCB¹¤³Ì\3\PCB1.PcbDoc
+Date     : 2019/7/21
+Time     : 10:33:07
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Violation between Pad A0-1(1775mil,1869.528mil)  Top Layer and 
+                     Pad A0-2(1775mil,1810.473mil)  Top Layer
+   Violation between Pad A1-1(1915mil,1810.473mil)  Top Layer and 
+                     Pad A1-2(1915mil,1869.528mil)  Top Layer
+   Violation between Pad R1-1(1890.473mil,2295mil)  Top Layer and 
+                     Pad R1-2(1949.528mil,2295mil)  Top Layer
+   Violation between Via (1986mil,2244mil) Top Layer to Bottom Layer and 
+                     Pad R1-2(1949.528mil,2295mil)  Top Layer
+   Violation between Pad A2-1(2050mil,1810.473mil)  Top Layer and 
+                     Pad A2-2(2050mil,1869.528mil)  Top Layer
+   Violation between Via (2006mil,1913mil) Top Layer to Bottom Layer and 
+                     Pad A2-2(2050mil,1869.528mil)  Top Layer
+   Violation between Pad R2-1(2030.473mil,2295mil)  Top Layer and 
+                     Pad R2-2(2089.528mil,2295mil)  Top Layer
+   Violation between Pad R3-1(1890.473mil,2160mil)  Top Layer and 
+                     Pad R3-2(1949.528mil,2160mil)  Top Layer
+   Violation between Via (1842mil,2151mil) Top Layer to Bottom Layer and 
+                     Pad R3-1(1890.473mil,2160mil)  Top Layer
+   Violation between Pad C1-1(1230.473mil,2000mil)  Top Layer and 
+                     Pad C1-2(1289.528mil,2000mil)  Top Layer
+   Violation between Pad R4-1(1186.527mil,1828mil)  Top Layer and 
+                     Pad R4-2(1127.472mil,1828mil)  Top Layer
+   Violation between Pad R6-1(1890.473mil,1980mil)  Top Layer and 
+                     Pad R6-2(1949.528mil,1980mil)  Top Layer
+   Violation between Via (1978mil,1931mil) Top Layer to Bottom Layer and 
+                     Pad R6-2(1949.528mil,1980mil)  Top Layer
+   Violation between Via (1861mil,1924mil) Top Layer to Bottom Layer and 
+                     Pad R6-1(1890.473mil,1980mil)  Top Layer
+   Violation between Pad R7-1(2030.473mil,1980mil)  Top Layer and 
+                     Pad R7-2(2089.528mil,1980mil)  Top Layer
+   Violation between Via (2071mil,1922mil) Top Layer to Bottom Layer and 
+                     Pad R7-2(2089.528mil,1980mil)  Top Layer
+   Violation between Via (1842mil,2151mil) Top Layer to Bottom Layer and 
+                     Pad U1-5(1779.134mil,2175mil)  Top Layer
+   Violation between Via (1842mil,2151mil) Top Layer to Bottom Layer and 
+                     Pad U1-4(1779.134mil,2125mil)  Top Layer
+   Violation between Via (2006mil,1913mil) Top Layer to Bottom Layer and 
+                     Via (1978mil,1931mil) Top Layer to Bottom Layer
+Rule Violations :19
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 19
+Time Elapsed        : 00:00:01

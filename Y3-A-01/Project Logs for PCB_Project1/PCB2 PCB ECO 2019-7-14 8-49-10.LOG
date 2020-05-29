@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=Y2 Old Footprint=XTAL4 New Footprint=XTAL32
+Added Pin To Net: NetName=PB2 Pin=Q1-1
+Added Member To Class: ClassName=Sheet1 Member=Component C15 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component P5 download
+Added Room: Name=Sheet1

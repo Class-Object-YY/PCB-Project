@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=PA4 Pin=¹âÕÕ-2
+Removed Pin From Net: NetName=PA1 Pin=ÑÌÎí-2
+Removed Pin From Net: NetName=PA0 Pin=ºìÍâ-2
+Added Component: Designator=R?(AXIAL-0.4)
+Added Component: Designator=R?(AXIAL-0.4)
+Added Pin To Net: NetName=PG4 Pin=¹âÕÕ-2
+Added Pin To Net: NetName=PG3 Pin=ÑÌÎí-2
+Added Pin To Net: NetName=PG2 Pin=ºìÍâ-2
+Added Member To Class: ClassName=1 Member=Component R11 Res2
+Added Member To Class: ClassName=1 Member=Component R? Res2
+Added Room: Name=1
